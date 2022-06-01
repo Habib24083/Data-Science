@@ -1,2 +1,2 @@
 Titanic Dataset Analysis
-# datascience
+# Data Science
